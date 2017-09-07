@@ -1,0 +1,24 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/logeia/yii2-logeia-common"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/logeia/yii2-logeia-doctrine-common"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/logeia/yii2-logeia-doctrine-dbal"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/logeia/yii2-logeia-doctrine-orm"
+        }
+    ],
+  
+  "require": {
+    "abexto/yii2-logeia-docrine-orm": "dev-master"
+  }
+}
